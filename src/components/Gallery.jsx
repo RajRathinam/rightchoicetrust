@@ -5,29 +5,29 @@ export default function ImageGallery() {
 
   const categories = [
 
-    { name: "SCHOOL MEETUP", image: "../../public/gallery/school.jpg", type: "SCHOOL MEETUP" },
+    { name: "SCHOOL MEETUP", image: "/gallery/school.jpg", type: "SCHOOL MEETUP" },
 
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu1.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu2.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu3.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu4.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu5.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu6.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu7.jpg", type: "EDUCATIONAL ASSIST" },
-    { name: "EDUCATIONAL ASSIST", image: "../../public/gallery/edu8.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu1.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu2.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu3.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu4.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu5.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu6.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu7.jpg", type: "EDUCATIONAL ASSIST" },
+    { name: "EDUCATIONAL ASSIST", image: "/gallery/edu8.jpg", type: "EDUCATIONAL ASSIST" },
 
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling1.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling2.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling3.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling4.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling5.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling6.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling7.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling8.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling9.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling10.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling11.jpg", type: "CAREER COUNSELLING" },
-    { name: "CAREER COUNSELLING", image: "../../public/gallery/councelling12.jpg", type: "CAREER COUNSELLING" }
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling1.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling2.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling3.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling4.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling5.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling6.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling7.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling8.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling9.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling10.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling11.jpg", type: "CAREER COUNSELLING" },
+    { name: "CAREER COUNSELLING", image: "/gallery/councelling12.jpg", type: "CAREER COUNSELLING" }
 
   ];
 

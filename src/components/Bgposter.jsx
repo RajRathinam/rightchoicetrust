@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bgposter = () => {
   return (
-    <section className="relative w-full h-screen bg-cover bg-center" style={{ backgroundImage: "url('../../public/bg.jpg')" }}>
+    <section className="relative w-full h-screen bg-cover bg-center" style={{ backgroundImage: "url('/bg.jpg')" }}>
    
    <div className="absolute inset-0 before:absolute before:inset-0 before:bg-gradient-to-br before:from-[rgba(32,58,67,0.9)] before:to-[rgba(60,95,113,0.8)]"></div>
 

@@ -6,28 +6,28 @@ const Successstories = () => {
             name: "Priya S.",
             quote: "The scholarship from Right Choice Trust helped me pursue my engineering degree. Today, I'm working as a software engineer at a leading tech company. Forever grateful!",
             degree: "B.Tech Graduate, 2021",
-            image: "../../public/raj.png",
+            image: "/public/raj.png",
         },
         {
             name: "Karthik R.",
             quote: "The career guidance I received from the Trust helped me choose the right path. Their mentorship was invaluable in shaping my career in medicine.",
             degree: "MBBS Graduate, 2022",
-            image: "../../public/raj.png", 
+            image: "/public/raj.png", 
         }, {
             name: "Karthik R.",
             quote: "The career guidance I received from the Trust helped me choose the right path. Their mentorship was invaluable in shaping my career in medicine.",
             degree: "MBBS Graduate, 2022",
-            image: "../../public/raj.png", 
+            image: "/public/raj.png", 
         }, {
             name: "Karthik R.",
             quote: "The career guidance I received from the Trust helped me choose the right path. Their mentorship was invaluable in shaping my career in medicine.",
             degree: "MBBS Graduate, 2022",
-            image: "../../public/raj.png", 
+            image: "/public/raj.png", 
         }, {
             name: "Karthik R.",
             quote: "The career guidance I received from the Trust helped me choose the right path. Their mentorship was invaluable in shaping my career in medicine.",
             degree: "MBBS Graduate, 2022",
-            image: "../../public/raj.png", 
+            image: "/public/raj.png", 
         },
     ];
 

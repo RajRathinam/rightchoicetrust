@@ -4,13 +4,13 @@ import React from "react";
 
 export default function Colleges() {
   const categories = [
-    { name: "ENGINEERING", pdf: "../../public/colleges/engi.pdf",icon:FaCogs},
-    { name: "MEDICAL SCIENCES", pdf: "../../public/colleges/medi.pdf",icon:FaStethoscope},
-    { name: "ARTS & SCIENCE", pdf: "../../public/colleges/arts.pdf",icon:FaPalette},
-    { name: "FISHERIES", pdf: "../../public/colleges/fish.pdf",icon:FaFish},
-    { name: "LAW", pdf: "../../public/colleges/law.pdf",icon:FaBalanceScale},
-    { name: "AGRICULTURE", pdf: "../../public/colleges/agri.pdf",icon:FaSeedling},
-    { name: "POLYTECHNIC", pdf: "../../public/colleges/poly.pdf",icon:FaBook},
+    { name: "ENGINEERING", pdf: "/colleges/engi.pdf",icon:FaCogs},
+    { name: "MEDICAL SCIENCES", pdf: "/colleges/medi.pdf",icon:FaStethoscope},
+    { name: "ARTS & SCIENCE", pdf: "/colleges/arts.pdf",icon:FaPalette},
+    { name: "FISHERIES", pdf: "/colleges/fish.pdf",icon:FaFish},
+    { name: "LAW", pdf: "/colleges/law.pdf",icon:FaBalanceScale},
+    { name: "AGRICULTURE", pdf: "/colleges/agri.pdf",icon:FaSeedling},
+    { name: "POLYTECHNIC", pdf: "/colleges/poly.pdf",icon:FaBook},
   ];
 
   return (

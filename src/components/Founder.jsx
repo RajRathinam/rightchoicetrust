@@ -1,5 +1,5 @@
 import React from "react";
-import founderImage from "../../public/founder.jpg"; // Ensure correct image path
+import founderImage from "/founder.jpg"; // Ensure correct image path
 
 const Founder = () => {
   return (

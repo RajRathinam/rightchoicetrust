@@ -4,7 +4,7 @@ import { IoMdDownload } from "react-icons/io";
 const categories = [
   {
     title: "Engineering - B.E / B.Tech",
-    pdfLink: "../../public/courses/engi.pdf",
+    pdfLink: "/courses/engi.pdf",
     courses: [
       "Civil Engineering",
       "Mechanical Engineering",
@@ -35,12 +35,12 @@ const categories = [
   },
   {
     title: "Medical Sciences",
-    pdfLink: "../../public/courses/medi.pdf",
+    pdfLink: "/courses/medi.pdf",
     courses: ["MBBS", "BDS", "BAMS", "B.Pharm", "BSc Nursing", "Physiotherapy"],
   },
   {
     title: "Arts & Science",
-    pdfLink: "../../public/courses/arts.pdf",
+    pdfLink: "/courses/arts.pdf",
     courses: [
       "B.A. Tamil Literature",
       "B.A. English Language & Literature",
@@ -55,7 +55,7 @@ const categories = [
   },
   {
     title: "Fisheries Science",
-    pdfLink: "../../public/courses/fish.pdf",
+    pdfLink: "/courses/fish.pdf",
     courses: [
       "B.F.Sc. (Bachelor of Fisheries Science)",
       "B.Tech. (Fisheries Engineering)",
@@ -65,12 +65,12 @@ const categories = [
   },
   {
     title: "Law",
-    pdfLink: "../../public/courses/law.pdf",
+    pdfLink: "/courses/law.pdf",
     courses: ["B.Com LL.B. (Hons.)", "B.A LL.B. (Hons.)", "B.B.A LL.B. (Hons.)"],
   },
   {
     title: "Agriculture",
-    pdfLink: "../../public/courses/agri.pdf",
+    pdfLink: "/courses/agri.pdf",
     courses: [
       "B.Sc (Hons) Agriculture",
       "B.Sc (Hons) Horticulture",
@@ -80,7 +80,7 @@ const categories = [
   },
   {
     title: "Polytechnic",
-    pdfLink: "../../public/courses/poly.pdf",
+    pdfLink: "/courses/poly.pdf",
     courses: [
       "Civil Engineering",
       "Mechanical Engineering",
