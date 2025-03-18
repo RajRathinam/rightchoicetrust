@@ -30,7 +30,7 @@ const Header = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow gap-2">
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-b z-1 mt-3 -ml-2 w-52 p-2 shadow gap-4">
                         <li className='text-lg hover:text-blue'><Link to="/" className='text-lg'><IoHome className='text-2xl text-blue' />Home</Link></li>
                         <li className='text-lg hover:text-blue'><Link to="/admissionspage" className='text-lg'><FaUserGraduate className='text-2xl text-blue' />Admissions</Link></li>
                         <li className='text-lg hover:text-blue' onClick={() => { setOpen(!open) }}>

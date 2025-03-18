@@ -123,7 +123,7 @@ const Footer = () => {
             </div>
            
             <div>
-                <iframe className='w-full h-[300px] rounded-xl' src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d408.9247745995935!2d79.84109!3d10.768851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a556d0025598d93%3A0xa3a75ec6f8b1fca4!2sRight%20Choice%20Educational%20And%20Charitable%20Trust!5e1!3m2!1sen!2sin!4v1741965824988!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe className='w-full h-[300px] rounded-xl' src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d408.9247745995935!2d79.84109!3d10.768851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a556d0025598d93%3A0xa3a75ec6f8b1fca4!2sRight%20Choice%20Educational%20And%20Charitable%20Trust!5e1!3m2!1sen!2sin!4v1741965824988!5m2!1sen!2sin" allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
           
             <div className='flex flex-col sm:gap-2 justify-center items-center'>

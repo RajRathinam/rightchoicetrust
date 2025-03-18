@@ -4,8 +4,8 @@ export default function Registrationform() {
   return (
     <div className="flex bg-white justify-center items-center sm:py-10 min-h-screen bg-gradient-to-tr from-[#000428] to-[#004e92] p-2 py-4">
       <div className="bg-white p-2 sm:p-8 rounded-lg shadow-2xl w-full max-w-4xl">
-        <h3 className="text-3xl font-bold mb-4 relative inline-block border-b-4 pb-2">STUDENT REGISTRATION FORM</h3>
-        <form action="https://formsubmit.co/restart18112024@gmail.com" method="POST" className="space-y-4">
+        <h3 className="text-lg sm:text-3xl font-bold mb-4 relative inline-block border-b-4 pb-2">STUDENT REGISTRATION FORM</h3>
+        <form action="https://formsubmit.co/restart18112024@gmail.com" method="POST" className="p-1 space-y-4">
           <div>
             <label className="block uppercase  text-gray-600">Student Name</label>
             <input type="text" name="Student Name" className="input input-bordered w-full" placeholder="Enter Student Name" required />
@@ -34,7 +34,7 @@ export default function Registrationform() {
             <div>
               <label className="block uppercase text-gray-600">Community</label>
               <select name="Community" className="select select-bordered w-full" required>
-                <option disabled selected>Select Community</option>
+                <option disabled>Select Community</option>
                 <option value="OC">OC</option>
                 <option value="BC">BC</option>
                 <option value="BCM">BCM</option>
@@ -56,7 +56,7 @@ export default function Registrationform() {
             <div>
               <label className="block uppercase text-gray-600">Studying Group</label>
               <select name="Studying Group" className="select select-bordered w-full" required>
-                <option disabled selected>Select Studying Group</option>
+                <option disabled>Select Studying Group</option>
                 <option value="PCMB">PCMB</option>
                 <option value="PCMC">PCMC</option>
                 <option value="PCBC">PCBC</option>
@@ -69,7 +69,7 @@ export default function Registrationform() {
           <div>
             <label className="block uppercase text-gray-600">Course Willingness</label>
             <select name="Course Willingness" className="select select-bordered w-full" required>
-              <option disabled selected>Select Course</option>
+              <option disabled>Select Course</option>
               <option value="Medical">Medical</option>
               <option value="Engg">Engg</option>
               <option value="Law">Law</option>

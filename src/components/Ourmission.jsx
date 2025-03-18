@@ -13,16 +13,17 @@ const Ourmission = () => {
                 <div className="flex flex-col lg:flex-row-reverse justify-center items-center gap-8">
 
                     <div className="w-full max-w-xs sm:max-w-sm flex flex-col items-center">
+                    <div className="relative">
+  <img
+    src="../../public/img1.jpg"
+    alt="Founder"
+    className="w-full rounded-lg shadow-2xl object-cover"
+  />
+  <span className="absolute -bottom-3 left-[75%] sm:left-[75%] -translate-x-1/2 backdrop-blur-lg bg-[#143d6bb0] text-white py-[2px] px-[3px] sm:px-3 sm:py-1 rounded-2xl shadow-md text-sm sm:text-base">
+    Est. 2010
+  </span>
+</div>
 
-                        <img
-                            src="../../public/img1.jpg"
-                            alt="Founder"
-                            className="w-full rounded-lg shadow-2xl object-cover relative"
-                        />
-
-                        <div className="absolute bottom-[-80px] sm:bottom-[-50px] sm:right-[100px] backdrop-blur-lg bg-[#3382ddb0] text-white px-3 py-1 sm:px-3 sm:py-1 rounded-2xl shadow-md text-sm sm:text-base">
-                            Est. 2010
-                        </div>
 
                         <div className="backdrop-blur-lg bg-white/10 border border-white/30 text-center p-4 sm:p-6 rounded-xl shadow-lg mt-6">
                             <p className="text-md sm:text-lg font-semibold text-white">
