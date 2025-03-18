@@ -15,7 +15,7 @@ const Ourmission = () => {
                     <div className="w-full max-w-xs sm:max-w-sm flex flex-col items-center">
                     <div className="relative">
   <img
-    src="../../public/img1.jpg"
+    src="/img1.jpg"
     alt="Founder"
     className="w-full rounded-lg shadow-2xl object-cover"
   />
